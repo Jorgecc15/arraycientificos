@@ -1,0 +1,12 @@
+.cientificos{
+    padding: 10px;  
+}
+#contenedor{
+    display:flex
+}
+body{background-color: beige;}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:black;
+}
